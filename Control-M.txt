@@ -1,0 +1,20 @@
+Control-M is a powerful workload automation solution that allows organizations to automate the scheduling and processing of business workflows across various platforms and applications. Here are the key points about Control-M:
+
+Automation and Scheduling:
+Control-M enables you to automate the execution of processes (referred to as “jobs”) across different systems.
+These jobs can be scripts, commands, or part of external applications.
+You can define specific run information for each job, including scheduling criteria, dependencies, and post-processing actions.
+Workflow Management:
+Jobs often need to run at specific times or in a particular sequence. This flow of jobs is called a workflow.
+Workflows can be complex, involving multiple interrelated jobs.
+Control-M helps manage these workflows efficiently.
+Folder Organization:
+Jobs can be grouped into folders based on their functionality or related processing.
+For example, you might have folders for different financial tasks (e.g., US finances, Australia finances) within an organization’s workflow.
+Folders make it easier to understand the purpose of each job and how they work together.
+Cross-Platform Support:
+Control-M works seamlessly across various platforms, applications, data sources, and infrastructures.
+You can integrate processes running on different systems into a single automated job flow.
+Example Scenario:
+Imagine a workflow that copies log files from a cloud environment, transfers them to a local data center using Managed File Transfer, converts them into an Excel sheet, and then sends an email notification.
+Control-M orchestrates this entire process, ensuring smooth execution
